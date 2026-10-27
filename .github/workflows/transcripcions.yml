@@ -1,0 +1,45 @@
+name: Transcripcions diàries
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # cada dia cap a les 7:17 (hora d'Eslovàquia/Barcelona a l'hivern)
+  workflow_dispatch:        # permet executar-lo a mà des de la pestanya Actions
+
+permissions:
+  contents: write
+
+jobs:
+  descarrega:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instal·la yt-dlp
+        run: pip install -U yt-dlp
+
+      - name: Prepara galetes (opcional)
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: |
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s' "$YT_COOKIES" > cookies.txt
+            mkdir -p ~/.config/yt-dlp
+            echo "--cookies $PWD/cookies.txt" > ~/.config/yt-dlp/config
+          fi
+
+      - name: Baixa transcripcions noves
+        run: python scripts/fetch_transcripts.py
+
+      - name: Desa els canvis
+        run: |
+          rm -f cookies.txt
+          git config user.name "transcripcions-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add transcripcions estat
+          git diff --cached --quiet || git commit -m "Transcripcions $(date +%F)"
+          git push
