@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
 
       - name: Instal·la yt-dlp
-        run: pip install -U yt-dlp
+        run: pip install -U yt-dlp youtube-transcript-api
 
       - name: Prepara galetes (opcional)
         env:
