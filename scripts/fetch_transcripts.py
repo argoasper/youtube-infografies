@@ -6,6 +6,7 @@ vídeos ja processats a estat/vistos.json perquè no es repeteixin.
 """
 import datetime as dt
 import json
+import os
 import pathlib
 import re
 import subprocess
@@ -15,8 +16,8 @@ ARREL = pathlib.Path(__file__).resolve().parent.parent
 CANALS = ARREL / "canals.txt"
 ESTAT = ARREL / "estat" / "vistos.json"
 SORTIDA = ARREL / "transcripcions"
-HORES_ENRERE = 36          # marge per si un dia falla l'execució
-VIDEOS_PER_CANAL = 5
+HORES_ENRERE = int(os.environ.get("HORES_ENRERE", "36"))  # marge per si un dia falla
+VIDEOS_PER_CANAL = 10
 IDIOMES = ["es", "es-ES", "ca", "en"]
 
 

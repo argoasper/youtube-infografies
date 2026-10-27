@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "17 6 * * *"   # cada dia cap a les 7:17 (hora d'Eslovàquia/Barcelona a l'hivern)
   workflow_dispatch:        # permet executar-lo a mà des de la pestanya Actions
+    inputs:
+      hores:
+        description: "Hores enrere a revisar"
+        default: "36"
 
 permissions:
   contents: write
@@ -33,6 +37,8 @@ jobs:
           fi
 
       - name: Baixa transcripcions noves
+        env:
+          HORES_ENRERE: ${{ inputs.hores || '36' }}
         run: python scripts/fetch_transcripts.py
 
       - name: Desa els canvis

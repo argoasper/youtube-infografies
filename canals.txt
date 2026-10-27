@@ -1,18 +1,12 @@
 # Un canal per línia: @handle, URL del canal o ID (UC...).
 # Les línies que comencen amb # s'ignoren.
-@Verabadias
+@PauBerenguerAI
+@SaulDiaz_CEO_SyntesIALabs
+@sharbelxyz
+@Paco_Vida
+@EDteam
 @SoyMartinToledo
-@pablotapias
-@victorperezia
-@gc_tech
-UCNAqpNKbR4bir7ySzmmTRFg
-@mouredev
-@BettaTech
-@ClaridadArtificial
-@jasp
+@Rodolf_Carrasco
 @Tomas.Montiel
-@EugeOller
-@LorenaBordonaba
-@pablomartinezgarcia_
-@salutecnia
-@centeia-education
+@Verabadias
+@pablotapias
