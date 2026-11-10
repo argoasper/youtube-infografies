@@ -12,7 +12,7 @@ te_transcripcio: False
 Hermes Agent 0.23 «Hearth» en español: la nueva actualización de Hermes trae una tienda oficial con más de 1.000 plugins que instalas gratis en un clic. Te enseño cómo funciona la tienda, qué significan los niveles Official, Verified y Community, cómo instalar un plugin, cómo ponerle a Hermes un cerebro gratis (en tu ordenador o en la nube) y los mejores plugins funcionando de verdad: Blender para crear en 3D solo hablando, Memory Wiki, REA, Workflow Record, el importador de agentes y Advanced Delegation. Además, qué plugins son de pago, el nuevo control de gasto y el resto de novedades de la 0.23: la app en el navegador, rebobinar conversaciones, grupos de bots que se organizan solos y la app en español.
 
 🎁 GUÍA GRATIS Y MENTORÍAS GRATUITAS DE LOS DOMINGOS:
-
+https://desarrollosconia.com/mentorias-domingos/?utm_source=youtube&utm_content=ctx6XYxSvrU
 🚨 Sígueme en Instagram: https://www.instagram.com/tomas.montiel_
 
 📌 Video Breakdown:
