@@ -1,7 +1,7 @@
 ---
 id: TJQ6ehFdWaw
 url: https://www.youtube.com/watch?v=TJQ6ehFdWaw
-titol: "Liberaron GPT–6.2 ASTRA ¿OpenAI la HA LIADO?"
+titol: "Por qué GPT 6.2 ASTRA es el modelo mas ODIADO de OpenAI?"
 canal: "Vera Badías"
 publicat: 2026-11-19T08:30:01+00:00
 te_transcripcio: False
@@ -10,6 +10,8 @@ te_transcripcio: False
 ## Descripció
 
 Black Friday Sale, AHORRA hasta 65% en los mejores MODELOS IA 👉 https://higgsfield.ai/s/first-impression-on-astra-6-2-verabadias-hUzujw
+
+🛠️ Las herramientas son gratis. Lo difícil es que funcionen en TU proyecto: lo armamos juntos en vivo cada sábado. Hoy $6/mes y tu precio se queda contigo 👉 https://www.skool.com/cofradia
 
 La recepción de GPT-6.2 Astra, el nuevo modelo de ChatGPT, ha sido desastrosa. Así que lo probé con el plugin de Higgsfield (Higgsfield MCP) en ChatGPT: un render 3D de un reloj en WebGL, un motion graphic que enseña a atar un nudo ocho y un comercial de 15 segundos. Un solo prompt cada uno. Y al final lo comparo con Opus 5.5.
 
@@ -35,8 +37,6 @@ Prompts de las pruebas:
 1. Haz en el navegador, con WebGL, un render 3D realista de un reloj cronógrafo de acero con correa de piel, sin marca. Que se despiece en vista explotada (cristal, bisel, carátula, engranes) y se vuelva a armar en loop. Prioriza materiales, reflejos y luz. Exporta también un video de 10 segundos.
 2. Haz un motion graphic de 30 segundos en 1080p que enseñe a atar un nudo ocho para escalar. Exporta el MP4.
 3. Usa Higgsfield para hacer un comercial de 15 segundos de una cafetería de barrio al amanecer: primero una imagen de referencia y luego video a partir de esa imagen. Tú eliges los modelos. Tope: 60 créditos; no pidas aprobación, consulta el costo y gasta dentro del tope. Descarga el MP4 final aquí.
-
-Únete a la Cofrad.IA 🔥 https://www.skool.com/cofradia 🔥
 
 ChatGPT Astra 6.2 · GPT-6.2 Astra · Astra 6.2 first impressions · new ChatGPT model · Higgsfield AI · Higgsfield MCP · Higgsfield plugin in ChatGPT
 

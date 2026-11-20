@@ -1,7 +1,7 @@
 ---
 id: mI_hk4MObwA
 url: https://www.youtube.com/watch?v=mI_hk4MObwA
-titol: "Someone Rebuilt Every App You Pay For, And It's Free"
+titol: "Someone Rebuilt Every Paid App (And It's Free)"
 canal: "Sharbel A."
 publicat: 2026-11-19T15:00:24+00:00
 te_transcripcio: False
