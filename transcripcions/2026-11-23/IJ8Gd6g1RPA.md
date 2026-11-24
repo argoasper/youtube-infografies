@@ -9,6 +9,8 @@ te_transcripcio: False
 
 ## Descripció
 
+🛠️ Las herramientas son gratis. Lo difícil es que funcionen en TU proyecto: lo armamos juntos en vivo cada sábado. Hoy $7/mes y tu precio se queda contigo 👉 https://www.skool.com/cofradia
+
 Unete a la  Cofradía Agéntica HOY x $6/mes y tu precio se queda contigo 👉 https://www.skool.com/cofradia
 
 Otras Guías IA Gratis en mi TELEGRAM 🚹➡️ https://t.me/VeraBadias

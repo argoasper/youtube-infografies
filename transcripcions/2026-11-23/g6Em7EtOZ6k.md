@@ -9,10 +9,12 @@ te_transcripcio: False
 
 ## Descripció
 
+No hay botón de videojuegos: es la opción de crear webs. Escribe en el chat de tu cuaderno «Hazme un sitio: un videojuego para estudiar…» o pega uno de los 20 encargos del PDF.
+
 Cómo convertir tu temario, tus apuntes o cualquier PDF en un videojuego para estudiar con Gemini Notebook (antes NotebookLM), gratis. Preguntas con reloj, niveles y una explicación cada vez que fallas. Lo pruebo con un libro de anatomía, con El arte de la guerra y con Pinocho para los peques.
 
 Los 20 encargos para 20 tipos de juego y los 12 trucos, en PDF gratis:
-https://diariovida.com/estudia-jugando-gemini-notebook/
+https://diariovida.com/estudia-jugando-gemini-notebook/?v=yt-m48590
 
 Capítulos:
 0:00 Tu temario, en videojuego
@@ -32,7 +34,7 @@ En el vídeo:
 Sirve para estudiar oposiciones, el carné de conducir, un idioma, el protocolo nuevo del trabajo o los deberes de tus hijos.
 
 Cada semana, lo que pruebo con IA, sin humo. Newsletter gratis:
-https://diariovida.com/suscribete/
+https://diariovida.com/suscribete/?v=yt-m48590
 
 Fuentes de las pruebas: libro de Anatomía y Fisiología de OpenStax en español (LibreTexts, licencia CC BY 4.0) y Las aventuras de Pinocho (dominio público, LibriVox / archive.org).
 
