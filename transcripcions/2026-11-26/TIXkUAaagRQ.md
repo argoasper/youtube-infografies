@@ -9,9 +9,9 @@ te_transcripcio: False
 
 ## Descripció
 
-🧠 Dale NEURONAS PREMIUM a tu IA —instala SlashStack 👉 https://slashstack.dev/
-
 🛠️ Las herramientas son gratis. Lo difícil es que funcionen en TU proyecto: lo armamos juntos en vivo cada sábado. Hoy $7/mes y tu precio se queda contigo 👉 https://www.skool.com/cofradia
+
+🧠 Dale NEURONAS PREMIUM a tu IA —instala SlashStack 👉 https://slashstack.dev/
 
 🔎 Haz que ChatGPT te recomiende: eGEOagents 👉 https://egeoagents.com/
 Otras Guías IA Gratis en mi TELEGRAM 🚹➡️ https://t.me/VeraBadias

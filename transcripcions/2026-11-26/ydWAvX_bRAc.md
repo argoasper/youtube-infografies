@@ -1,7 +1,7 @@
 ---
 id: ydWAvX_bRAc
 url: https://www.youtube.com/watch?v=ydWAvX_bRAc
-titol: "I Turned GPT-6.2 Astra Into A 24/7 Viral Content Machine"
+titol: "I Built The Ultimate Viral Content Machine With GPT-6.2 Astra (Steal This)"
 canal: "Sharbel A."
 publicat: 2026-11-26T15:00:03+00:00
 te_transcripcio: False
@@ -9,7 +9,7 @@ te_transcripcio: False
 
 ## Descripció
 
-Try Higgsfield here: https://higgsfield.ai/s/higgsfield-general-campaign-yt-sharbelxyz-lxmvYJ
+Get the Higgsfield Black Friday discount (75% off) here: https://higgsfield.ai/s/higgsfield-general-campaign-yt-sharbelxyz-lxmvYJ
 
 Get the full GPT-6.2 Astra content machine setup here: https://sharbel.com/s/dcstp
 
